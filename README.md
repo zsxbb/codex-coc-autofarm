@@ -45,7 +45,7 @@ coc-python/
 #### A. Persiapan Awal Game & Emulator
 1. Buka **Google Play Games PC** dan jalankan **Clash of Clans**.
 2. **PENTING**: Ubah bahasa game Clash of Clans Anda ke **English** agar deteksi tombol berjalan lancar.
-3. Pastikan resolusi jendela game tidak terlalu kecil agar deteksi gambar OpenCV akurat.
+3. **PENTING**: Pastikan game berjalan dalam mode **Full Screen** (Layar Penuh, tekan `F11` pada keyboard) atau jendela dimaksimalkan agar koordinat pertempuran dan deteksi gambar OpenCV akurat serta konsisten.
 
 ---
 
@@ -136,7 +136,7 @@ coc-python/
 #### A. Initial Game Setup
 1. Launch **Clash of Clans** inside **Google Play Games PC**.
 2. **IMPORTANT**: Change the in-game language to **English** for correct image-matching.
-3. Ensure the game window is sized reasonably (avoid minimizing it to extreme ratios) for accurate OpenCV detection.
+3. **IMPORTANT**: Ensure the game runs in **Full Screen** mode (press `F11` on your keyboard) or maximized window so that battle coordinates and OpenCV image matching are accurate and consistent.
 
 ---
 
